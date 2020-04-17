@@ -37,4 +37,4 @@
 * jest --verbose --coverage
 
 UML
-![lab-09-uml]()
+![lab-09-uml](./asset/image/lab-09-uml.jpg)

@@ -3,7 +3,7 @@
 * Author: Eyob Tamir
 
 ### Links and Resources
-[submission PR] () 
+[submission PR link] (https://github.com/eyobtamir-401n16/lab-09/tree/apiserver) 
 
 ### back-end server url (when applicable)
 * http//:localhosts:3000  - for home page *
@@ -35,6 +35,7 @@
 
 ### Tests
 * jest --verbose --coverage
+* npm test lab-09
 
 UML
 ![lab-09-uml](./asset/image/lab-09-uml.jpg)
